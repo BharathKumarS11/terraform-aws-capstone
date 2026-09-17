@@ -1,0 +1,6 @@
+aws_region   = "ap-south-1"
+project_name = "terraform-aws-capstone"
+environment  = "dev"
+
+db_username = "appadmin"
+db_password = "CHANGE_ME"
