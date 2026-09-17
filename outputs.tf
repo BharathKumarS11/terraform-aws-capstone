@@ -74,3 +74,7 @@ output "target_group_arn" {
   value = module.compute.target_group_arn
 }
 
+output "db_endpoint" {
+  value = module.rds.db_endpoint
+}
+
